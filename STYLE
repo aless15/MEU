@@ -1,0 +1,21 @@
+body {
+  	background: #CCCCCC
+  }
+
+  #banner.jpg{
+  	
+  }
+ 
+h1{
+	style=text-align: center
+}
+
+ p {
+
+    text-align: center;
+    }
+
+  em strong{
+	color: #FF0000;
+
+}
